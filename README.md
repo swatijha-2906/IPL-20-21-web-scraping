@@ -21,6 +21,6 @@ The following  activities are carried out when we run this project-
 ### Insights-
 
 1. Cheerio module used here for web scraping.
-2. Disadvantage of cheerio module: it only parses and extracts initial loaded html, so we cannot find first ball commentary using this.
+2. Disadvantage of cheerio module: it only parses and extracts initial loaded html.
 3. HTML seggregation is done using another file (table.html) to make information extraction easier.
 4. Multiple page scraping is done here.
